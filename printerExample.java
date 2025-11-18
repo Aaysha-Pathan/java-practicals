@@ -2,7 +2,7 @@ package javaa;
 class Printer
 {
 	void print() {
-		System.out.println("Printing");	
+		System.out.println("Printing differenyt printers");	
 	}
 	void testPrint(Printer p) {
 		p.print();
